@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+LOCATION:https://webrtc-conferencing.telekom.de
+SUMMARY:WebRTC Conference (6777)
+DESCRIPTION:Dear colleague(s),\n\nPlease join me in a WebRTC Conference.\n\nTo attend the conference open the following URL in Google Chrome:\n\nhttps://example.com/webconference#6777\n\nIf necessary, please download the current version of Google Chrome or Mozilla Firefox from the Internet.\n\nKind regards
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
